@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irisvilaseca" alt="irisvilaseca" /></a> </p>
 
-- 🔭 I’m currently working on **a coding bootcamp**
+- 🔭 I’m currently working on **a Certificate of Higher Education**
 
-- 🌱 I’m currently learning **to make dynamic websites**
+- 🌱 I’m currently learning **to program in Java**
 
-- 👯 I’m looking to collaborate on **any project that helps me learn**
+- 👯 I’m looking to collaborate on **any project that helps me learn and develop myself**
 
-- 🤝 I’m looking for help with **Backend Developing**
+- 🤝 I’m looking for help with **nested for loops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/irisvilaseca](https://github.com/irisvilaseca)
 
