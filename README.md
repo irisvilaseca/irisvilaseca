@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/irisvilaseca](https://github.com/irisvilaseca)
 
-- 💬 Ask me about **FrontEnd development**
+- 💬 Ask me about **Backend and FrontEnd development**
 
 - 📫 How to reach me **iris.vilaseca1998@gmail.com**
 
