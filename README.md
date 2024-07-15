@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a Certificate of Higher Education**
 
-- 🌱 I’m currently learning **to program in Java**
+- 🌱 I’m currently learning **to program in C# and .NET**
 
 - 👯 I’m looking to collaborate on **any project that helps me learn and develop myself**
 
